@@ -1,4 +1,4 @@
 # GLaDOS 自动签到依赖
-requests
-pypushdeer
-serverchan-sdk
+requests>=2.31,<3
+pypushdeer==0.0.3
+serverchan-sdk>=1.0.6,<2
